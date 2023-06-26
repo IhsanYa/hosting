@@ -1,4 +1,3 @@
-<style>
 .align-left{float:left} .align-left{display:flex;flex-wrap:wrap;align-items:center;flex:0 0 120px}.entry-author{margin:0 4px 0 0}.entry-author{display:flex}
 @media screen and (max-width:500px){.flex-footer{display:flex;justify-content:space-between;padding:10px}.flex-footer >* li{font-size:12px}}
 /* Category posts */ .ctgC{margin-bottom:20px} .ctgC.loaded{animation:opaC .5s 0s;-webkit-animation:opaC .5s 0s} .ctgC .blogPg >*{margin-left:auto;margin-right:auto} @keyframes opaC{0%{opacity:0}100%{opacity:1}} @-webkit-keyframes opaC{0%{opacity:0}100%{opacity:1}}
@@ -33,4 +32,4 @@
 @keyframes spin-one{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}100%{-webkit-transform:rotate(-359deg);transform:rotate(-359deg)}}
 .spin-one{animation:spin-one 1.5s infinite linear}
 @keyframes spin-two{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}100%{-webkit-transform:rotate(-359deg);transform:rotate(359deg)}}
-.spin-two{animation:spin-two 2s infinite linear}</style>
+.spin-two{animation:spin-two 2s infinite linear}
